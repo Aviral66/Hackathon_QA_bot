@@ -1,4 +1,4 @@
-# AskIt - Simple Document Q&A App
+# AskIt - HR Document Q&A App
 
 ## 🧩 Problem Statement
 
